@@ -1,9 +1,7 @@
 # Я — Разработчик прикладных программ; Fullstack разработчик
-- Специализируюсь на создании удобных и функциональных цифровых продуктов, объединяя эстетику,  производительность и надежность <br/>
+- Специализируюсь на создании удобных и функциональных цифровых продуктов, <br/> объединяя эстетику, производительность и надежность <br/>
 
-- Способен выполнить любую поставленную задачу, независимо от сложности или масштаба, я обеспечу  решение в срок <br/>
-
-- Я всегда открыт для обсуждения идей и предложений, готов выслушать вашу критику
+- Всегда открыт для обсуждения идей и предложений,<br/> готов выслушать вашу критику
 
 ## Основные технологии, с которыми я работаю
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,6 +33,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Немного статистики
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormev&count_private=true&show_icons=true&theme=dark)
 
 ## Связаться со мной
+
 ![Email](https://img.shields.io/badge/email-storm--storm1990@mail.ru-blue)
